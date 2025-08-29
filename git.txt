@@ -1,5 +1,5 @@
 git pull origin main
 
 git add .
-git commit -m "메시지 작성"
+git commit -m "save 파라미터 필수 여부 - requestParamRequired"
 git push
